@@ -12,7 +12,9 @@ Note:
 If you do not know how to make your own branch, or push, or do git things in general please let me know. I will gladly offer bootleg git classes.
 
 ## Opening Jupyter Notebooks
-For those of you who have never done this before:
+If you just want to see what it looks like, Github will render it for you if you click on the `*.ipynb` file in the browser.
+
+If you want to actually work in the notebook:
 * Open up your Anaconda command prompt / terminal:
 
 ![image](https://user-images.githubusercontent.com/90073537/132081944-36d6ac48-1047-49a1-90ae-b0e18af15210.png)
